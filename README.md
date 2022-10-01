@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MyNiuuu
-- 👀 I am a 4th-year undergraduate student at Dalian University of technology.
-- 🇯🇵 I will be enrolled at the University of Tokyo in October 2022 as a graduate student.
-- 🌱 My research interests focus on computer vison, especially Generative Adversarial Networks (GANs).
+- 🇯🇵 I am a 1st-year graduate student at the University of Tokyo.
+- 🌱 My research interests focus on computer vison, especially Multi-spectral Vision.
 - 💞️ I am currently also a research intern in SenseTime.
-- 📫 Feel free to contact me at 201894064@mail.dlut.edu.cn
+- 📫 Feel free to contact me at nmynol@gmail.com

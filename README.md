@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MyNiuuu
 - 🇯🇵 I am a 1st-year graduate student at the University of Tokyo.
 - 🌱 My research interests focus on computer vison, especially Multi-spectral Vision.
-- 💞️ I am currently also a research intern in SenseTime.
 - 📫 Feel free to contact me at nmynol@gmail.com

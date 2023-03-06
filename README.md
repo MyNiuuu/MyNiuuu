@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @MyNiuuu
-- 🇯🇵 I am a 1st-year graduate student at the University of Tokyo.
-- 🌱 My research interests focus on computer vison, especially Multi-spectral Vision.
-- 📫 Feel free to contact me at nmynol@gmail.com
+- 🇯🇵 I am a 1st-year graduate student at The University of Tokyo (UTokyo).
+- 🌱 My research interests include computational photography, 3D vision, computer vision, and deep learning.
+- 🏠 My Homepage: [myniuuu.github.io](https://myniuuu.github.io/)
+- 📫 Feel free to contact me at muyao.niu@gmail.com

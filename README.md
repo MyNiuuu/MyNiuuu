@@ -4,9 +4,9 @@
 - 🏠 My Homepage: [myniuuu.github.io](https://myniuuu.github.io/)
 - 📫 Feel free to contact me at muyao.niu@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyNiuuu&show_icons=true&theme=default
-)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=MyNiuuu&show_icons=true&theme=default
+)](https://github.com/anuraghazra/github-stats-extended)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNiuuu&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MyNiuuu&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=MyNiuuu)
